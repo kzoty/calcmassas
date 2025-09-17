@@ -1,10 +1,10 @@
 const CACHE_NAME = 'calc-massas-v1';
 const urlsToCache = [
-  '/',
-  '/index.html',
-  '/index.css',
-  '/index.js',
-  '/manifest.json',
+  '/calcmassas/',
+  '/calcmassas/index.html',
+  '/calcmassas/index.css',
+  '/calcmassas/index.js',
+  '/calcmassas/manifest.json',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js'
 ];
