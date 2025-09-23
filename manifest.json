@@ -2,7 +2,7 @@
   "name": "Calculadora de Massas",
   "short_name": "CalcMassas",
   "description": "Aplicativo para calcular massas de produtos de padaria",
-  "start_url": "/",
+  "start_url": "/calcmassas/index.html",
   "display": "standalone",
   "background_color": "#121212",
   "theme_color": "#1E1E1E",

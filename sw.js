@@ -1,4 +1,4 @@
-const CACHE_NAME = 'calc-massas-v1';
+const CACHE_NAME = 'calc-massas-v1.1';
 const urlsToCache = [
   '/calcmassas/',
   '/calcmassas/index.html',
