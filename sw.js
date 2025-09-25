@@ -5,8 +5,9 @@ const urlsToCache = [
   '/calcmassas/index.css',
   '/calcmassas/index.js',
   '/calcmassas/manifest.json',
-  '/calcmassas/icon-192-192.png',
-  '/calcmassas/icon-512-512.png',
+  '/calcmassas/icon.png',
+  '/calcmassas/icon-192.png',
+  '/calcmassas/icon-512.png',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css',
   'https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js'
 ];
