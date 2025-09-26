@@ -1,12 +1,12 @@
 {
   "name": "Calculadora de Massas",
   "short_name": "CalcMassas",
-  "description": "Calculadora de massa molar",
+  "description": "Calculadora para massas de padaria",
   "start_url": "/calcmassas/",
   "scope": "/calcmassas/",
   "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#000000",
+  "background_color": "#667eea",
+  "theme_color": "#667eea",
   "icons": [
     {
       "src": "icon-192.png",
